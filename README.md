@@ -74,7 +74,7 @@ Este sistema foi criado para facilitar a operação de mensageiros/manobristas e
 ## Autor
 
 **Desenvolvido por mim**  
-Dev formado em Análise e Desenvolvimento de Sistemas   
+Dev com graduação em Análise e Desenvolvimento de Sistemas   
 
 ---
 
