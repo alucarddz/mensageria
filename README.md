@@ -51,16 +51,13 @@ Este sistema foi criado para facilitar a operação de mensageiros/manobristas e
 ## Imagens do Sistema
 
 ### Tela de Check-in
-[Tela de Check-in](assets/checkin.png)
-
+![Tela de Check-in](assets/checkin.png)
 
 ### Histórico de Veículos
-[Histórico de Veículos](assets/historico.png)
-
+![Histórico de Veículos](assets/historico.png)
 
 ### Checkout
-[Checkout](assets/checkout.png)
-
+![Checkout](assets/checkout.png)
 
 ---
 
